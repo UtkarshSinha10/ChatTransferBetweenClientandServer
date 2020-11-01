@@ -1,4 +1,8 @@
 # ChatTransferBetweenClientandServer
 SocketProgrammingImplementation
 
-The project deals with operations on  Web Socket. A newly conected client get acknowledgement response for messages send by Client.
+Project reflects the working of a group chat application.
+It exploits the websockets to connect the server to different clients and send acknowledgement messages to the connected clients.
+It also inculcates the Multithreading concept.
+#Java #Multithreading #Sockets-Programming
+
